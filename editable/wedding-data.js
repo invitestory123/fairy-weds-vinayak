@@ -53,7 +53,9 @@ window.WEDDING_DATA = {
       "Skyline Heights",
       "KRM Infracom",
       "Manoj Trading Company",
-      "Farry Agency"
+      "Farry Agency",
+      "Atul Cement Agency",
+      "Rashi Communication"
     ]
   },
   schedule: [
@@ -95,7 +97,7 @@ window.WEDDING_DATA = {
   footer: {
     line1: "Come early. Stay late.",
     line2: "Celebrate with us.",
-    compliments: "With Best Compliments: Skyline Heights · KRM Infracom · Manoj Trading Company · Farry Agency",
+    compliments: "With Best Compliments: Skyline Heights · KRM Infracom · Manoj Trading Company · Farry Agency · Atul Cement Agency · Rashi Communication",
     signoff: "With all our love, Fairy & Vinayak",
   },
   images: {
